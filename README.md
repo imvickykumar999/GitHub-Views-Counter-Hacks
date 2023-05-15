@@ -77,7 +77,9 @@
 
 --------------------------
 
-# Archieved Backup
+<br>
+
+# Archived Backup
 
 ![image](https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks/assets/50515418/51280608-7808-4523-b035-b8a4e0773fb5)
 

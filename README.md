@@ -11,9 +11,9 @@
 
 ---------------------------------------
 
-- ## GitHub Counter Viewer Graph on [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ghkJuD8AjBiP95tSqCWpQhHWGonkxS9YbH2nHWw5EpE/edit?usp=sharing)
+- ## GitHub Counter Viewer Graph on [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1c_mZmVgoLln84r1sfpVz2mPXH4erLxHW2Wg8CY93SH8/edit?usp=sharing)
 
-> [![image](https://user-images.githubusercontent.com/50515418/209145439-75412ad9-4d20-4daf-a7eb-00dfdb7ee7fe.png)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRwaHati9JPeMFl9wbCnTNSr3dWo3NkkorO60OyQId3j-gOpxYGgDeYGp249xlkW_7BlDy_EYBNWVFl/pubchart?oid=2084833100&format=interactive)
+> [![image](https://user-images.githubusercontent.com/50515418/209145439-75412ad9-4d20-4daf-a7eb-00dfdb7ee7fe.png)](https://docs.google.com/spreadsheets/d/1c_mZmVgoLln84r1sfpVz2mPXH4erLxHW2Wg8CY93SH8/edit?usp=sharing)
 
 --------------------------
 
@@ -63,23 +63,23 @@
 
 --------------------------------
 
-- ## Also Scheduled via `Google AppScript` : [GitHub Counter Viewer `Hacks`](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/edit)
+- ## Also Scheduled via `Google AppScript` : [GitHub Counter Viewer `Hacks`](https://script.google.com/u/1/home/projects/1ZQ0nqCcC9p0SLWZuwZKV46D_hK1aB4ymx1y8l54I83S2x3lxgMNSp9se/edit)
 
     Automated Get Request via AppScript, Deployed to run every minute.
 
-> [![image](https://user-images.githubusercontent.com/50515418/209066562-320d777b-ac55-4281-8913-8ebd7e206d47.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/triggers)
+> [![image](https://user-images.githubusercontent.com/50515418/209066562-320d777b-ac55-4281-8913-8ebd7e206d47.png)](https://script.google.com/u/1/home/projects/1ZQ0nqCcC9p0SLWZuwZKV46D_hK1aB4ymx1y8l54I83S2x3lxgMNSp9se/edit)
 
 ----------------------------
 
     Need help to Automate Scheduling from other technologies too!
 
-> [![image](https://user-images.githubusercontent.com/50515418/209121147-b5bdfa72-3ea3-4b35-b5cb-52bfba98d250.png)](https://script.google.com/u/1/home/projects/1c4F9nYoN_jwYcRaRmb64SwCINefMCef49aELcohhd4UumeJBKLIJNmpB/executions)
+> [![image](https://user-images.githubusercontent.com/50515418/209121147-b5bdfa72-3ea3-4b35-b5cb-52bfba98d250.png)](https://script.google.com/u/1/home/projects/1ZQ0nqCcC9p0SLWZuwZKV46D_hK1aB4ymx1y8l54I83S2x3lxgMNSp9se/edit)
 
 --------------------------
 
 <br>
 
-# Archived [Backup](https://docs.google.com/spreadsheets/d/1ghkJuD8AjBiP95tSqCWpQhHWGonkxS9YbH2nHWw5EpE/edit?usp=sharing)
+# Archived [Backup](https://docs.google.com/spreadsheets/d/1c_mZmVgoLln84r1sfpVz2mPXH4erLxHW2Wg8CY93SH8/edit?usp=sharing)
 
 ![image](https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks/assets/50515418/2cf0791b-da4f-42cd-8c62-5474e0187b1b)
 

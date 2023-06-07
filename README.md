@@ -8,6 +8,8 @@
     without spamming our server. Everybody knows that any counters could be faked.
 
 > A billion fake profile views doesn't make you a very popular person, it makes you a person with a billion number in the counter.
+>
+> ![image](https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks/assets/50515418/907d812f-c77e-44c3-ade6-ec7ce39251d1)
 
 ---------------------------------------
 

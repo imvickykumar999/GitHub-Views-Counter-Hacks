@@ -4,8 +4,10 @@
 
 - ## Spamming [Server](https://github.com/antonkomarev/github-profile-views-counter#usage)
 
-        If you want to see big numbers in your profile, deploy a standalone solution to draw any views count you want
-        without spamming our server. Everybody knows that any counters could be faked.
+If you want to see big numbers in your profile, deploy a standalone solution to draw any views count you want
+without spamming our server. Everybody knows that any counters could be faked.
+
+<br>
 
 > A billion fake profile views doesn't make you a very popular person, it makes you a person with a billion number in the counter.
 >

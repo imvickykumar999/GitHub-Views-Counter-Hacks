@@ -9,7 +9,7 @@ without spamming our server. Everybody knows that any counters could be faked.
 
 <br>
 
-> A billion fake profile views doesn't make you a very popular person, it makes you a person with a billion number in the counter.
+> A billion fake profile views doesn't make you a very popular person, it makes you a person with a billion numbers on the counter.
 >
 >![image](https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks/assets/50515418/759a8a74-a485-442a-a6f7-107c024f4100)
 

@@ -91,6 +91,6 @@ without spamming our server. Everybody knows that any counters could be faked.
 
 <!-- ![image](https://user-images.githubusercontent.com/50515418/228517149-c6959a73-48a3-4aa4-b4a9-4e5006c34f33.png) -->
 
-## Backup on 12 June 2023
+## Backup on 17 January 2024
 
-![image](https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks/assets/50515418/93d841c0-9036-467f-85e8-6fc823431dd6)
+![image](https://github.com/imvickykumar999/GitHub-Views-Counter-Hacks/assets/50515418/3b03dc8c-29a1-4864-8fcc-d94bb2b203be)
